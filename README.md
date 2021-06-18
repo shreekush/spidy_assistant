@@ -1,4 +1,5 @@
-# spidy_assistant
+# spidy_assistant for small automaition
+
 #small personal assistant for pc and automation
 install and import pyaudio
 install and import speech recognition
